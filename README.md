@@ -1,4 +1,4 @@
-# Android device tree for Nubia NX651J (NX651J)
+# Android device tree for nubia NX651J (NX651J)
 
 ```
 #

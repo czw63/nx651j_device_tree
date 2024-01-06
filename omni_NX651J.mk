@@ -17,7 +17,7 @@ $(call inherit-product, device/nubia/NX651J/device.mk)
 
 PRODUCT_DEVICE := NX651J
 PRODUCT_NAME := omni_NX651J
-PRODUCT_BRAND := Nubia
+PRODUCT_BRAND := nubia
 PRODUCT_MODEL := NX651J
 PRODUCT_MANUFACTURER := nubia
 
